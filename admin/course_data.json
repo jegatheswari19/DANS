@@ -1,0 +1,10 @@
+{
+    "3": {
+        "course_choices": "2",
+        "min_students": 1
+    },
+    "6": {
+        "course_choices": "2",
+        "min_students": 10
+    }
+}
